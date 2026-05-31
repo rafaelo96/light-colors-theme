@@ -34,21 +34,21 @@ A vibrant, Material Design-inspired light theme with cheerful colors, broad lang
 
 | Role | Color | Hex |
 |------|-------|:---:|
-| Background | ![#fafbfc](https://via.placeholder.com/12/fafbfc?text=+) `#fafbfc` | Editor, panels |
-| Foreground | ![#464646](https://via.placeholder.com/12/464646?text=+) `#464646` | Main text |
-| Primary Accent | ![#ff006a](https://via.placeholder.com/12/ff006a?text=+) `#ff006a` | Selection, status bar, active borders |
-| Secondary Accent | ![#55c1ff](https://via.placeholder.com/12/55c1ff?text=+) `#55c1ff` | Badges, focus, functions |
-| Strings | ![#ffb400](https://via.placeholder.com/12/ffb400?text=+) `#ffb400` | Strings, markup links |
-| Keywords | ![#f767bb](https://via.placeholder.com/12/f767bb?text=+) `#f767bb` | Keywords, selectors |
-| Types | ![#ff006a](https://via.placeholder.com/12/ff006a?text=+) `#ff006a` | Type annotations, constants |
-| Classes | ![#3dccc7](https://via.placeholder.com/12/3dccc7?text=+) `#3dccc7` | Classes, regexp |
-| Functions | ![#55c1ff](https://via.placeholder.com/12/55c1ff?text=+) `#55c1ff` | Function calls |
-| Variables | ![#7fb800](https://via.placeholder.com/12/7fb800?text=+) `#7fb800` | Variables (italic) |
-| Numbers | ![#ff5c57](https://via.placeholder.com/12/ff5c57?text=+) `#ff5c57` | Numeric constants |
-| Comments | ![#adb1c2](https://via.placeholder.com/12/adb1c2?text=+) `#adb1c2` | Comments (italic) |
-| Errors | ![#ff5c56](https://via.placeholder.com/12/ff5c56?text=+) `#ff5c56` | Errors, exceptions |
-| Diff Added | ![#ff006a](https://via.placeholder.com/12/ff006a?text=+) `#ff006a` | Git additions |
-| Diff Deleted | ![#ff5c57](https://via.placeholder.com/12/ff5c57?text=+) `#ff5c57` | Git deletions |
+| Background | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23fafbfc' width='12' height='12' rx='2'/></svg>" alt="#fafbfc"> `#fafbfc` | Editor, panels |
+| Foreground | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23464646' width='12' height='12' rx='2'/></svg>" alt="#464646"> `#464646` | Main text |
+| Primary Accent | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff006a' width='12' height='12' rx='2'/></svg>" alt="#ff006a"> `#ff006a` | Selection, status bar, active borders |
+| Secondary Accent | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%2355c1ff' width='12' height='12' rx='2'/></svg>" alt="#55c1ff"> `#55c1ff` | Badges, focus, functions |
+| Strings | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ffb400' width='12' height='12' rx='2'/></svg>" alt="#ffb400"> `#ffb400` | Strings, markup links |
+| Keywords | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23f767bb' width='12' height='12' rx='2'/></svg>" alt="#f767bb"> `#f767bb` | Keywords, selectors |
+| Types | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff006a' width='12' height='12' rx='2'/></svg>" alt="#ff006a"> `#ff006a` | Type annotations, constants |
+| Classes | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%233dccc7' width='12' height='12' rx='2'/></svg>" alt="#3dccc7"> `#3dccc7` | Classes, regexp |
+| Functions | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%2355c1ff' width='12' height='12' rx='2'/></svg>" alt="#55c1ff"> `#55c1ff` | Function calls |
+| Variables | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%237fb800' width='12' height='12' rx='2'/></svg>" alt="#7fb800"> `#7fb800` | Variables (italic) |
+| Numbers | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff5c57' width='12' height='12' rx='2'/></svg>" alt="#ff5c57"> `#ff5c57` | Numeric constants |
+| Comments | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23adb1c2' width='12' height='12' rx='2'/></svg>" alt="#adb1c2"> `#adb1c2` | Comments (italic) |
+| Errors | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff5c56' width='12' height='12' rx='2'/></svg>" alt="#ff5c56"> `#ff5c56` | Errors, exceptions |
+| Diff Added | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff006a' width='12' height='12' rx='2'/></svg>" alt="#ff006a"> `#ff006a` | Git additions |
+| Diff Deleted | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12'><rect fill='%23ff5c57' width='12' height='12' rx='2'/></svg>" alt="#ff5c57"> `#ff5c57` | Git deletions |
 
 ---
 
