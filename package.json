@@ -30,12 +30,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Rafael-117/light-colors-theme"
+		"url": "https://github.com/rafaelo96/light-colors-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/Rafael-117/light-colors-theme/issues"
+		"url": "https://github.com/rafaelo96/light-colors-theme/issues"
 	},
-	"homepage": "https://github.com/Rafael-117/light-colors-theme",
+	"homepage": "https://github.com/rafaelo96/light-colors-theme",
 	"badges": [
 		{
 			"url": "https://img.shields.io/badge/light--theme-Material%20Light%20Theme-ff006a",
