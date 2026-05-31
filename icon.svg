@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f6f8"/>
+      <stop offset="100%" stop-color="#fafbfc"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="248" fill="url(#bg)" stroke="#e0e1e3" stroke-width="2"/>
+  <!-- Code brackets { } -->
+  <text x="180" y="220" font-family="monospace" font-size="100" font-weight="bold" fill="#adb1c2" opacity="0.4">{</text>
+  <text x="300" y="220" font-family="monospace" font-size="100" font-weight="bold" fill="#adb1c2" opacity="0.4">}</text>
+  <!-- Color dots arranged in a palette arc -->
+  <circle cx="256" cy="310" r="28" fill="#ff006a"/>
+  <circle cx="212" cy="280" r="24" fill="#55c1ff"/>
+  <circle cx="300" cy="280" r="24" fill="#3dccc7"/>
+  <circle cx="180" cy="240" r="20" fill="#f767bb"/>
+  <circle cx="256" cy="250" r="20" fill="#ffb400"/>
+  <circle cx="332" cy="240" r="20" fill="#7fb800"/>
+  <circle cx="150" cy="200" r="16" fill="#ff5c57"/>
+  <circle cx="362" cy="200" r="16" fill="#00a6ed"/>
+  <!-- Code lines -->
+  <rect x="190" y="360" width="132" height="4" rx="2" fill="#ff006a" opacity="0.5"/>
+  <rect x="205" y="372" width="102" height="4" rx="2" fill="#55c1ff" opacity="0.4"/>
+  <rect x="215" y="384" width="82" height="4" rx="2" fill="#adb1c2" opacity="0.3"/>
+  <!-- Small codicon-like sparkle -->
+  <path d="M256 130 l6 18 l18 6 l-18 6 l-6 18 l-6-18 l-18-6 l18-6 z" fill="#ffb400" opacity="0.6"/>
+</svg>

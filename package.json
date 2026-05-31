@@ -1,0 +1,67 @@
+{
+	"name": "light-colors-theme",
+	"publisher": "Rafael-Avalos",
+	"displayName": "Material Light Theme",
+	"description": "A vibrant Material Design-inspired light theme with cheerful colors, broad language support, and a polished coding experience.",
+	"version": "1.2.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"light",
+		"theme",
+		"colors",
+		"material",
+		"material design",
+		"colorful",
+		"modern",
+		"clean",
+		"bright",
+		"vibrant"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#fafbfc",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rafael-117/light-colors-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/Rafael-117/light-colors-theme/issues"
+	},
+	"homepage": "https://github.com/Rafael-117/light-colors-theme",
+	"badges": [
+		{
+			"url": "https://img.shields.io/badge/light--theme-Material%20Light%20Theme-ff006a",
+			"href": "https://marketplace.visualstudio.com/items?itemName=Rafael-Avalos.light-colors-theme",
+			"description": "Material Light Theme"
+		}
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/Light Colors Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "68959ce2-b9e3-4a2f-89fc-93cb41e9222f",
+		"publisherId": "b9cb246d-25c4-4049-8b5d-74ad2265b5e8",
+		"publisherDisplayName": "Rafael-Avalos",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1780253022251,
+		"pinned": false,
+		"size": 201534
+	}
+}

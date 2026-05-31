@@ -1,0 +1,8 @@
+.vscodeignore
+.gitignore
+LICENSE
+**/*.vsix
+**/.DS_Store
+**/*.svg
+**/node_modules
+**/.git
