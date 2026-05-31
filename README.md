@@ -34,21 +34,21 @@ A vibrant, Material Design-inspired light theme with cheerful colors, broad lang
 
 | Role | Color | Hex |
 |------|-------|:---:|
-| Background | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/fafbfc.svg" alt="#fafbfc"> `#fafbfc` | Editor, panels |
-| Foreground | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/464646.svg" alt="#464646"> `#464646` | Main text |
-| Primary Accent | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.svg" alt="#ff006a"> `#ff006a` | Selection, status bar, active borders |
-| Secondary Accent | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/55c1ff.svg" alt="#55c1ff"> `#55c1ff` | Badges, focus, functions |
-| Strings | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ffb400.svg" alt="#ffb400"> `#ffb400` | Strings, markup links |
-| Keywords | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/f767bb.svg" alt="#f767bb"> `#f767bb` | Keywords, selectors |
-| Types | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.svg" alt="#ff006a"> `#ff006a` | Type annotations, constants |
-| Classes | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/3dccc7.svg" alt="#3dccc7"> `#3dccc7` | Classes, regexp |
-| Functions | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/55c1ff.svg" alt="#55c1ff"> `#55c1ff` | Function calls |
-| Variables | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/7fb800.svg" alt="#7fb800"> `#7fb800` | Variables (italic) |
-| Numbers | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c57.svg" alt="#ff5c57"> `#ff5c57` | Numeric constants |
-| Comments | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/adb1c2.svg" alt="#adb1c2"> `#adb1c2` | Comments (italic) |
-| Errors | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c56.svg" alt="#ff5c56"> `#ff5c56` | Errors, exceptions |
-| Diff Added | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.svg" alt="#ff006a"> `#ff006a` | Git additions |
-| Diff Deleted | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c57.svg" alt="#ff5c57"> `#ff5c57` | Git deletions |
+| Background | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/fafbfc.png" alt="#fafbfc"> `#fafbfc` | Editor, panels |
+| Foreground | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/464646.png" alt="#464646"> `#464646` | Main text |
+| Primary Accent | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.png" alt="#ff006a"> `#ff006a` | Selection, status bar, active borders |
+| Secondary Accent | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/55c1ff.png" alt="#55c1ff"> `#55c1ff` | Badges, focus, functions |
+| Strings | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ffb400.png" alt="#ffb400"> `#ffb400` | Strings, markup links |
+| Keywords | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/f767bb.png" alt="#f767bb"> `#f767bb` | Keywords, selectors |
+| Types | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.png" alt="#ff006a"> `#ff006a` | Type annotations, constants |
+| Classes | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/3dccc7.png" alt="#3dccc7"> `#3dccc7` | Classes, regexp |
+| Functions | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/55c1ff.png" alt="#55c1ff"> `#55c1ff` | Function calls |
+| Variables | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/7fb800.png" alt="#7fb800"> `#7fb800` | Variables (italic) |
+| Numbers | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c57.png" alt="#ff5c57"> `#ff5c57` | Numeric constants |
+| Comments | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/adb1c2.png" alt="#adb1c2"> `#adb1c2` | Comments (italic) |
+| Errors | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c56.png" alt="#ff5c56"> `#ff5c56` | Errors, exceptions |
+| Diff Added | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff006a.png" alt="#ff006a"> `#ff006a` | Git additions |
+| Diff Deleted | <img src="https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/swatches/ff5c57.png" alt="#ff5c57"> `#ff5c57` | Git deletions |
 
 ---
 
