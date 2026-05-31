@@ -3,7 +3,7 @@
 	"publisher": "Rafael-Avalos",
 	"displayName": "Material Light Theme",
 	"description": "A vibrant Material Design-inspired light theme with cheerful colors, broad language support, and a polished coding experience.",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.78.0"

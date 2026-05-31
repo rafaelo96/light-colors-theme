@@ -2,6 +2,12 @@
 
 All notable changes to the "light-colors-theme" extension will be documented in this file.
 
+## [1.3.0] - 2026-05-31
+
+### Added
+- Fixed image URLs in README for VS Code marketplace
+- Updated gallery banner and color swatches
+
 ## [1.2.0] - 2025-05-31
 
 ### Added
