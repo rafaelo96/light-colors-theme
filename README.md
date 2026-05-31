@@ -9,9 +9,9 @@ A vibrant, Material Design-inspired light theme with cheerful colors, broad lang
 
 ## Preview
 
-![Code Preview](code-dark2.png)
+![Code Preview](https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/code-dark2.png)
 
-![Color Palette](colors.png)
+![Color Palette](https://raw.githubusercontent.com/rafaelo96/light-colors-theme/main/colors.png)
 
 ---
 
